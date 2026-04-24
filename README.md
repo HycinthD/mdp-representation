@@ -94,5 +94,5 @@ print(P)
 ```
 
 ## RESULT:
-Write your output here
+Thus, the robotic vaccum cleaner problem is successfully represented in MDP form.
 
